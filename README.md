@@ -1,0 +1,2 @@
+# EMUSPECIAL64
+1.0
